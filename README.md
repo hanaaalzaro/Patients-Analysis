@@ -29,5 +29,5 @@ The dataset contains 1,000 patient records with the following columns:
 
 ## Key Findings
 - ICU patients had the **longest stays** but reported **lower satisfaction**.  
-- Surgery patients had **shorter stays** but **higher satisfaction**.  
+- Surgery patients had the **highest satisfaction**.  
 - Age had little effect on satisfaction, but older patients tended to stay longer.  
